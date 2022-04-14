@@ -6,5 +6,5 @@ void setup(){
 void draw(){
   background(0);
   line( 100, 100, 200, 100);
-  
+  //what happens if we swap these two lines over
 }
